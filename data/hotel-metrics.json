@@ -1679,8 +1679,16 @@
     "reviewsCount": 376,
     "totalScore": 4.3,
     "hotelStars": null,
-    "price": null,
-    "experience": {},
+    "price": 72,
+    "experience": {
+      "amenities":[
+        "beach access",
+        "pool",
+        "spa",
+        "free parking",
+        "restaurant"
+      ]
+    },
     "latitude": 5.8451766,
     "longitude": 0.9815336
   },
@@ -1716,8 +1724,16 @@
     "reviewsCount": 27,
     "totalScore": 3.7,
     "hotelStars": null,
-    "price": null,
-    "experience": {},
+    "price": 30,
+    "experience": {
+      "amenities":[
+        "waterfront",
+        "pool",
+        "restaurant",
+        "free parking",
+        "laundry"
+      ]
+    },
     "latitude": 6.0112432,
     "longitude": 0.5459213
   },
@@ -1738,7 +1754,7 @@
     "reviewsCount": 994,
     "totalScore": 4.0,
     "hotelStars": null,
-    "price": null,
+    "price": 50,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -1773,7 +1789,7 @@
     "reviewsCount": 1052,
     "totalScore": 3.8,
     "hotelStars": null,
-    "price": null,
+    "price": 28,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -1791,7 +1807,8 @@
         "Hot tub",
         "Fitness center",
         "Bar",
-        "Smoke-free"
+        "Smoke-free",
+        "Volta tour"
       ]
     },
     "latitude": 6.6250288,
@@ -1803,7 +1820,7 @@
     "reviewsCount": 155,
     "totalScore": 3.9,
     "hotelStars": "3-star hotel",
-    "price": null,
+    "price": 34,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -1813,7 +1830,8 @@
         "Kid-friendly",
         "Restaurant",
         "Fitness center",
-        "Bar"
+        "Bar",
+        "Beach access"
       ]
     },
     "latitude": 6.106923,
@@ -1825,10 +1843,11 @@
     "reviewsCount": 272,
     "totalScore": 3.7,
     "hotelStars": null,
-    "price": null,
+    "price": 30,
     "experience": {
       "amenities": [
-        "Kid-friendly"
+        "Kid-friendly",
+        "Greens and Mountains"
       ]
     },
     "latitude": 6.592883,
@@ -1840,7 +1859,7 @@
     "reviewsCount": 1269,
     "totalScore": 4.2,
     "hotelStars": null,
-    "price": null,
+    "price": 71,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -1865,7 +1884,7 @@
     "reviewsCount": 343,
     "totalScore": 4.4,
     "hotelStars": null,
-    "price": null,
+    "price": 45,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -1888,7 +1907,7 @@
     "reviewsCount": 146,
     "totalScore": 4.6,
     "hotelStars": null,
-    "price": null,
+    "price": 93,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -1903,7 +1922,8 @@
         "Kitchens in some rooms",
         "Fitness center",
         "Bar",
-        "Smoke-free"
+        "Smoke-free",
+        "waterfront"
       ]
     },
     "latitude": 5.9941531,
@@ -1915,7 +1935,7 @@
     "reviewsCount": 139,
     "totalScore": 4.2,
     "hotelStars": null,
-    "price": null,
+    "price": 129,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -1929,7 +1949,9 @@
         "Spa",
         "Fitness center",
         "Bar",
-        "Smoke-free"
+        "Smoke-free",
+        "Golf course",
+        "waterfront"
       ]
     },
     "latitude": 5.8028125,
@@ -1941,7 +1963,7 @@
     "reviewsCount": 1959,
     "totalScore": 4.4,
     "hotelStars": null,
-    "price": null,
+    "price": 690,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -1981,7 +2003,7 @@
     "reviewsCount": 420,
     "totalScore": 4.1,
     "hotelStars": "4-star hotel",
-    "price": null,
+    "price": 185,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -2379,7 +2401,7 @@
     "reviewsCount": 312,
     "totalScore": 3.9,
     "hotelStars": "3-star hotel",
-    "price": null,
+    "price": 139,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -2435,7 +2457,11 @@
     "totalScore": 4.2,
     "hotelStars": null,
     "price": null,
-    "experience": {},
+    "experience": {
+      "amenities":[
+        "beach access"
+      ]
+    },
     "latitude": 5.5400606,
     "longitude": -0.2055556
   },
@@ -2680,7 +2706,7 @@
     "reviewsCount": 1394,
     "totalScore": 4.1,
     "hotelStars": "3-star hotel",
-    "price": null,
+    "price": 102,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -2707,10 +2733,11 @@
     "reviewsCount": 107,
     "totalScore": 3.6,
     "hotelStars": null,
-    "price": null,
+    "price": 32,
     "experience": {
       "amenities": [
-        "Kid-friendly"
+        "Kid-friendly",
+        "beach access"
       ]
     },
     "latitude": 5.5294152,
@@ -2722,7 +2749,7 @@
     "reviewsCount": 613,
     "totalScore": 3.7,
     "hotelStars": "3-star hotel",
-    "price": null,
+    "price": 45,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -2833,7 +2860,7 @@
     "reviewsCount": 306,
     "totalScore": 3.5,
     "hotelStars": "3-star hotel",
-    "price": null,
+    "price": 27,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -2906,7 +2933,8 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Kid-friendly"
+        "Kid-friendly",
+        "waterfront"
       ]
     },
     "latitude": 6.2086077,
@@ -2985,7 +3013,7 @@
     "reviewsCount": 172,
     "totalScore": 4.5,
     "hotelStars": null,
-    "price": null,
+    "price": 55,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -3004,7 +3032,8 @@
         "Hot tub",
         "Fitness center",
         "Bar",
-        "Smoke-free"
+        "Smoke-free",
+        "waterfront"
       ]
     },
     "latitude": 6.2980265,
@@ -3016,8 +3045,14 @@
     "reviewsCount": 46,
     "totalScore": 4.0,
     "hotelStars": null,
-    "price": null,
-    "experience": {},
+    "price": 62,
+    "experience": {
+      "amenities":[
+        "pool",
+        "greens and mountains",
+        "restaurant"
+      ]
+    },
     "latitude": 6.3397819,
     "longitude": -0.9975905
   },
@@ -3027,7 +3062,7 @@
     "reviewsCount": 344,
     "totalScore": 4.0,
     "hotelStars": null,
-    "price": null,
+    "price": 45,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -3038,7 +3073,8 @@
         "Laundry service",
         "Kid-friendly",
         "Restaurant",
-        "Bar"
+        "Bar",
+        "waterfront"
       ]
     },
     "latitude": 6.2439045,
@@ -3050,7 +3086,7 @@
     "reviewsCount": 483,
     "totalScore": 3.9,
     "hotelStars": "3-star hotel",
-    "price": null,
+    "price": 68,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -3063,7 +3099,8 @@
         "Restaurant",
         "Spa",
         "Fitness center",
-        "Bar"
+        "Bar",
+        "Greens and mountains"
       ]
     },
     "latitude": 5.9373755,
@@ -3108,7 +3145,7 @@
     "reviewsCount": 1464,
     "totalScore": 4.2,
     "hotelStars": null,
-    "price": null,
+    "price": 53,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -3139,7 +3176,7 @@
     "reviewsCount": 3090,
     "totalScore": 4.5,
     "hotelStars": "4-star hotel",
-    "price": null,
+    "price": 234,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -3158,7 +3195,8 @@
         "Hot tub",
         "Spa",
         "Fitness center",
-        "Bar"
+        "Bar",
+        "Greens and Mountains"
       ]
     },
     "latitude": 5.8084059,
@@ -3248,8 +3286,15 @@
     "reviewsCount": 188,
     "totalScore": 4.3,
     "hotelStars": null,
-    "price": null,
-    "experience": {},
+    "price": 47,
+    "experience": {
+      "amenities":[
+        "spa",
+        "pool",
+        "bar",
+        "restaurant"
+      ]
+    },
     "latitude": 6.1011875,
     "longitude": -0.2833125
   },
@@ -3259,7 +3304,7 @@
     "reviewsCount": 163,
     "totalScore": 4.1,
     "hotelStars": null,
-    "price": null,
+    "price": 64,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -3269,7 +3314,9 @@
         "Laundry service",
         "Kid-friendly",
         "Restaurant",
-        "Fitness center"
+        "Fitness center",
+        "waterfront",
+        "greens and mountains"
       ]
     },
     "latitude": 6.1506626,
@@ -3281,8 +3328,15 @@
     "reviewsCount": 45,
     "totalScore": 4.4,
     "hotelStars": null,
-    "price": null,
-    "experience": {},
+    "price": 30,
+    "experience": {
+      "amenities":[
+        "greens and mountains",
+        "camping",
+        "free breakfast",
+        "restaurant"
+      ]
+    },
     "latitude": 5.8348125,
     "longitude": -0.2586875
   },
@@ -3324,12 +3378,13 @@
     "reviewsCount": 21,
     "totalScore": 4.5,
     "hotelStars": null,
-    "price": null,
+    "price": 25,
     "experience": {
       "amenities": [
         "Free parking",
         "Pet-friendly",
-        "Kid-friendly"
+        "Kid-friendly",
+        "greens and mountains"
       ]
     },
     "latitude": 6.5009189,
@@ -3341,7 +3396,7 @@
     "reviewsCount": 60,
     "totalScore": 4.3,
     "hotelStars": null,
-    "price": null,
+    "price": 120,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -3351,7 +3406,8 @@
         "Laundry service",
         "Room service",
         "Restaurant",
-        "Bar"
+        "Bar",
+        "Greens"
       ]
     },
     "latitude": 6.0164365,
@@ -3386,7 +3442,7 @@
     "reviewsCount": 503,
     "totalScore": 3.8,
     "hotelStars": "3-star hotel",
-    "price": null,
+    "price": 56,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -3399,7 +3455,9 @@
         "Pet-friendly",
         "Kid-friendly",
         "Restaurant",
-        "Bar"
+        "Bar",
+        "Greens and Mountains",
+        "waterfront"
       ]
     },
     "latitude": 6.2421015,
@@ -3433,7 +3491,7 @@
     "reviewsCount": 286,
     "totalScore": 3.9,
     "hotelStars": null,
-    "price": null,
+    "price": 48,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -3445,7 +3503,8 @@
         "Kid-friendly",
         "Restaurant",
         "Fitness center",
-        "Bar"
+        "Bar",
+        "waterfront"
       ]
     },
     "latitude": 6.2451779,
@@ -3457,7 +3516,7 @@
     "reviewsCount": 1347,
     "totalScore": 4.0,
     "hotelStars": "3-star hotel",
-    "price": null,
+    "price": 103,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -3469,7 +3528,8 @@
         "Laundry service",
         "Kid-friendly",
         "Restaurant",
-        "Fitness center"
+        "Fitness center",
+        "waterfront"
       ]
     },
     "latitude": 6.2668178,
@@ -3481,7 +3541,7 @@
     "reviewsCount": 27,
     "totalScore": 3.7,
     "hotelStars": null,
-    "price": null,
+    "price": 13,
     "experience": {
       "amenities": [
         "Wi-Fi",
@@ -3544,9 +3604,20 @@
     "placeId": "ChIJh0DtbpupIBARCpA13VQUjgU",
     "reviewsCount": 271,
     "totalScore": 4.4,
-    "hotelStars": null,
+    "hotelStars": 177,
     "price": null,
-    "experience": {},
+    "experience": {
+      "amenities":[
+        "spa",
+        "free breakfast",
+        "pool",
+        "tennis",
+        "golf course",
+        "restaurant",
+        "bar",
+        "Greens and Mountains"
+      ]
+    },
     "latitude": 6.3095964,
     "longitude": 0.0331131
   },
@@ -3566,7 +3637,8 @@
         "Laundry service",
         "Kid-friendly",
         "Restaurant",
-        "Bar"
+        "Bar",
+        "Greens and Mountains"
       ]
     },
     "latitude": 5.7955373,
@@ -3621,10 +3693,11 @@
     "reviewsCount": 210,
     "totalScore": 3.7,
     "hotelStars": "2-star hotel",
-    "price": null,
+    "price": 15,
     "experience": {
       "amenities": [
-        "Kid-friendly"
+        "Kid-friendly",
+        "Greens"
       ]
     },
     "latitude": 6.2296973,
@@ -3651,7 +3724,7 @@
     "reviewsCount": 303,
     "totalScore": 4.2,
     "hotelStars": "3-star hotel",
-    "price": null,
+    "price": 150,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -3665,7 +3738,9 @@
         "Restaurant",
         "Airport shuttle",
         "Hot tub",
-        "Bar"
+        "Bar",
+        "Golf course",
+        "Greens and Mountains"
       ]
     },
     "latitude": 5.8058686,
@@ -3678,7 +3753,15 @@
     "totalScore": 4.5,
     "hotelStars": null,
     "price": 177.0,
-    "experience": {},
+    "experience": {
+      "amenities":[
+        "Greens and Mountains",
+        "waterfront",
+        "pool",
+        "Reastaurant",
+        "Bar"
+      ]
+    },
     "latitude": 6.2384595,
     "longitude": 0.0912979
   },
